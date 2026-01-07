@@ -1,0 +1,5 @@
+{
+  "name": "IA SIMULADOR DE CHAVEIROS",
+  "description": "A 3D print simulator for creating custom keychains. Upload a logo, configure print settings, and generate realistic renders using Gemini AI.",
+  "requestFramePermissions": []
+}
